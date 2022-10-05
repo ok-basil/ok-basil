@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on an ecommerce website 
 - 🌱 I’m currently learning Linux, C/C++, CSS, JS and React
@@ -12,6 +14,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ok-basil"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ok-basil"/>
 
 <table width="320px">
     <tbody>
@@ -60,3 +63,4 @@
         </tr>
     </tbody>
 </table>
+<img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
