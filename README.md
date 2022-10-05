@@ -7,8 +7,6 @@
 - 📫 How to reach me: basilokache@gmail.com
 - ⚡ Fun fact: In addition to programming, I also do voiceovers!
 
-https://github.com/ok-basil/ok-basil#languages-and-tools
-
 <img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ok-basil"/>
