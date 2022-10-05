@@ -34,14 +34,18 @@ https://github.com/ok-basil/ok-basil#languages-and-tools
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>c</strong></span><br>
+            <span><strong>C</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>cplusplus</strong></span><br>
+            <span><strong>C++</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
             </td>
             <td width="80px" align="center">
@@ -53,7 +57,7 @@ https://github.com/ok-basil/ok-basil#languages-and-tools
             </td>
             <td width="80px" align="center">
             <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
             </td>
         </tr>
     </tbody>
