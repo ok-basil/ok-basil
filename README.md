@@ -8,8 +8,7 @@
 - 💬 Ask me about anything related to Python, Django or Web Development
 - 📫 Reach me at: basilokache@gmail.com
 - ⚡ Fun fact: In addition to programming, I also do voiceovers!
-
-https://github-readme-stats.vercel.app/api?username=ok-basil
+[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-basil)](https://github.com/ok-basil/github-readme-stats)
 
 <table width="320px">
     <tbody>
