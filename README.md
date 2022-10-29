@@ -10,11 +10,9 @@
 - ⚡ Fun fact: In addition to programming, I also do voiceovers!
 
 <img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ok-basil"/>
+[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-basil)](https://github.com/ok-basil/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ok-basil"/>
 
 <table width="320px">
     <tbody>
