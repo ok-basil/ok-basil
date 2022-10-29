@@ -9,10 +9,7 @@
 - 📫 Reach me at: basilokache@gmail.com
 - ⚡ Fun fact: In addition to programming, I also do voiceovers!
 
-<img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true"/>
-[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-basil)](https://github.com/ok-basil/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true&theme=dark"/>
+https://github-readme-stats.vercel.app/api?username=ok-basil
 
 <table width="320px">
     <tbody>
