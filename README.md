@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I have been learning software development for over three years. I started out with Python, HTML and CSS but over the years, I have added other languages to my arsenal. I have worked on a couple of projects using HTML, CSS and the Django framework including an e-commerce website. I am looking for opportunities in web development at the moment, either or both frontend or backend development.
+I have been learning software development for over three years. I started out with Python, HTML and CSS but over the years, I have added other technologies to my arsenal. I have worked on a couple of projects using HTML, CSS and the Django framework including an e-commerce website. I am looking for opportunities in web development at the moment, either or both frontend or backend development.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [basilokache@gmail.com](mailto:basilokache@gmail.com)
