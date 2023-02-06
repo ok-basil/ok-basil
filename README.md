@@ -8,7 +8,7 @@ I have been learning software development for over three years. I started out wi
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [basilokache@gmail.com](mailto:basilokache@gmail.com)
-*   🧠  I'm learning PHP and WordPress
+*   🧠  I'm currently learning PHP and WordPress
 *   🤝  I'm open to collaborating on any interesting web applications.
 *   ⚡  I'm secretly Homelander but don't tell anyone
 
