@@ -6,7 +6,7 @@ Web Developer
 
 I have been learning software development for over three years. I started out with Python, HTML and CSS but over the years, I have added other technologies to my arsenal. I have worked on a couple of projects using HTML, CSS and the Django framework including an e-commerce website, a blog to name a few. I am looking for opportunities in web development at the moment, either or both in frontend and backend development.
 
-*   🌍  I'm based in Lagos, Nigeria
+*   🌍  I'm based in Lagos, Nigeria.
 *   ✉️  You can contact me at [basilokache@gmail.com](mailto:basilokache@gmail.com)
 *   🧠  I'm currently learning PHP and WordPress
 *   🤝  I'm open to collaborating on any interesting web applications.
