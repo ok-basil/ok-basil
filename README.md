@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I have been learning software development for over three years. I started out with Python, HTML and CSS but over the years, I have added other technologies to my arsenal. I have worked on a couple of projects using HTML, CSS, JavaScript, PHP, WordPress and the Django framework including an e-commerce website, a blog to name a few. I am looking for opportunities in web development at the moment, either or both in frontend and backend development.
+As a web developer, my passion lies in creating dynamic and engaging websites that not only look great but also provide an exceptional user experience. With a strong background in programming languages such as HTML, CSS, JavaScript, and PHP, I have a deep understanding of how to develop and maintain web applications of all sizes.
+
+My experience includes designing responsive and mobile-friendly layouts, building intuitive and scalable user interfaces, and integrating third-party APIs and services. I am also proficient in popular content management systems (CMS) such as WordPress, allowing me to quickly develop customized and easy-to-use websites for clients.
 
 *   🌍  I'm based in Lagos, Nigeria.
 *   ✉️  You can contact me at [basilokache@gmail.com](mailto:basilokache@gmail.com)
-*   🧠  I'm currently learning ReactJS, PHP and WordPress.
-*   🤝  I'm open to collaborating on any interesting web applications.
 *   ⚡  I'm secretly Homelander but don't tell anyone
 
 ### Skills 
@@ -27,18 +27,3 @@ I have been learning software development for over three years. I started out wi
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-
-<!-- ### Socials
-                  
-<p align="left"> <a href="https://www.github.com/ok-basil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ok_basil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/basilokache9055" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/okachebasil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
- -->
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ok-basil"><img src="https://github-readme-stats.vercel.app/api?username=ok-basil&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ok-basil's GitHub stats" /></a>
-
-<!-- <a href="http://www.github.com/ok-basil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ok-basil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-
-<!-- <a href="https://github.com/ok-basil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok-basil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
